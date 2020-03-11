@@ -75,3 +75,4 @@ y para poder hacer nuestro primer push ejecutamos
 
 En caso de que nos pida las credenciales de GitHub Login (usename y password y lo cerramos, y escribimos nuestro usuario y contraseña por la consola.
 
+Prueba de camnio en el servidor
