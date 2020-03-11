@@ -1,4 +1,4 @@
- ![](https://git-scm.com/images/logo@2x.png)
+![](https://git-scm.com/images/logo@2x.png)
 # Curso de GIT
 
 Este es un curso de GIT y la correcta utilización de sus comandos además de la creación del **README.md**.
@@ -72,4 +72,3 @@ Para poder ver los estados fetch y push podemos ejecutar:
 y para poder hacer nuestro primer push ejecutamos 
 
     git push origin master 
-
