@@ -63,7 +63,7 @@ Date:   Tue Mar 10 23:33:42 2020 -0300
 
 ya hemos ejecutado varios comandos git, por lo que solo debemos ejecutar
 
-    git remote add origin git@github.com:leonvalen/CursoGit.git
+    git remote add origin https://github.com/leonvalen/CursoGit.git
 
 Para poder ver los estados fetch y push podemos ejecutar:
 
