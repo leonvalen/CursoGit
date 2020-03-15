@@ -74,7 +74,7 @@ y para poder hacer nuestro primer push ejecutamos
     git push origin master 
 
 En caso de que nos pida las credenciales de GitHub Login (usename y password y lo cerramos, y escribimos nuestro usuario y contraseña por la consola.
-
+ 
 ## Buscar cambios en nuestro repositorio
 
 Si trabajamos con varias personas en nuestro proyecto debemos buscar esos supuestos cambios en nuestro repositorio. Esto se hace con el comando 
@@ -84,4 +84,17 @@ Ahora desde nuestra carpeta de proyecto para poder obtener lso cambios ejecutamo
 
     git pull origin master
 
-prueba de camnio en servidor y bajarlo a local
+> De esta manera se bajan los cambios que realice cualquier person en nuestro repositorio
+
+## Comando de AYUDA
+
+    git help
+
+También se pueden listar todos los comandos con 
+
+    git help --all
+
+Si se quiere saber sobre un comando en especial, como por ejemplo el cl comando check-attr se escribe el siguiente comando:
+
+    git help check-attr
+

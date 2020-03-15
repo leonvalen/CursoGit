@@ -1,0 +1,41 @@
+[33mcommit c32e28e2b7717ddccb0000df6086e2f2f4038ce1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Jose Leonardo Valenzuela <leonvalen@gmail.com>
+Date:   Sun Mar 15 11:29:14 2020 -0300
+
+    Se agrega buscar cambios en repositorio
+
+[33mcommit 12c65a519210e322763993f69c83b98f007263c8[m
+Author: Jose Leonardo Valenzuela <leonvalen@gmail.com>
+Date:   Wed Mar 11 00:20:26 2020 -0300
+
+    Se corrige error ortogrÃafico
+
+[33mcommit 9d8cc5569648e11aaf9ab63fc7981d951a8a6132[m
+Author: Jose Leonardo Valenzuela <leonvalen@gmail.com>
+Date:   Wed Mar 11 00:17:07 2020 -0300
+
+    Prueba de cambio en el servidor para poder hacer pull
+
+[33mcommit 03e5f02a980c98930701ba05ad974d2cab730094[m
+Author: Jose Leonardo Valenzuela <leonvalen@gmail.com>
+Date:   Wed Mar 11 00:08:12 2020 -0300
+
+    Se agrega comentario sobre las crednciales
+
+[33mcommit 80eace0e6f4dd322c4cb3b825aae58e693543868[m
+Author: Jose Leonardo Valenzuela <leonvalen@gmail.com>
+Date:   Wed Mar 11 00:01:37 2020 -0300
+
+    Se cambia a https
+
+[33mcommit a0849e5e564610cacc8fc85aa56ef5d63d95a3b6[m
+Author: Jose Leonardo Valenzuela <leonvalen@gmail.com>
+Date:   Wed Mar 11 00:00:24 2020 -0300
+
+    Modificacion del archivo README.md
+
+[33mcommit f7d198d7434f99aeff37701d1b1549c3f201c385[m
+Author: Jose Leonardo Valenzuela <leonvalen@gmail.com>
+Date:   Tue Mar 10 23:59:01 2020 -0300
+
+    Creacion de README.md
