@@ -83,3 +83,5 @@ En nuestro caso como estamos haciendo pruebas solos, vamos a ahcer algo que no e
 Ahora desde nuestra carpeta de proyecto para poder obtener lso cambios ejecutamos el siguiente comando:
 
     git pull origin master
+
+prueba de camnio en servidor y bajarlo a local
