@@ -75,4 +75,11 @@ y para poder hacer nuestro primer push ejecutamos
 
 En caso de que nos pida las credenciales de GitHub Login (usename y password y lo cerramos, y escribimos nuestro usuario y contraseña por la consola.
 
-Prueba de cambio en el servidor
+## Buscar cambios en nuestro repositorio
+
+Si trabajamos con varias personas en nuestro proyecto debemos buscar esos supuestos cambios en nuestro repositorio. Esto se hace con el comando 
+En nuestro caso como estamos haciendo pruebas solos, vamos a ahcer algo que no es aconsejable y es realizar cambios directamente en el servidor seleccionando nuestro archivo README.md y editandolo colocamos algún cambio, luego colocamos un **Commit changes** y le damos al botón Commit changes. De esta manera tendremos un cambio que obtener de nuestro servidor.
+
+Ahora desde nuestra carpeta de proyecto para poder obtener lso cambios ejecutamos el siguiente comando:
+
+    git pull origin master
